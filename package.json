@@ -1,0 +1,26 @@
+{
+  "name": "livelogjs",
+  "version": "1.0.0",
+  "description": "Socket Based Log Viewer for live console log message viewing in browser remotely. This package add LiveLog capabilities to any js project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "clear;node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SmartinfoLogiks/liveLogJS.git"
+  },
+  "keywords": [
+    "LiveLogJS",
+    "OTA",
+    "Remote",
+    "Debugger"
+  ],
+  "author": "Bismay <bismay@smartinfologiks.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmartinfoLogiks/liveLogJS/issues"
+  },
+  "homepage": "https://github.com/SmartinfoLogiks/liveLogJS#readme"
+}
