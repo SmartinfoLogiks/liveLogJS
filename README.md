@@ -1,2 +1,4 @@
 # liveLogJS
-Socket Based Log Viewer for live console log message viewing in browser remotely. This package add LiveLog capabilities to any js project.
+
+This is a nodeJS library to add support to nodejs project to publish active logs to SILK Live Log Console.
+
